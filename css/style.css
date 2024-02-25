@@ -1,0 +1,36 @@
+.menu-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+
+.left{
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+    font-size: 20px;
+}
+
+.right{
+    display: flex;
+}
+.section{
+    display: flex;
+}
+
+.center{
+    display: flex;
+}
+.Content {
+    width: 50%;
+}
+
+.form{
+    width:50%;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
